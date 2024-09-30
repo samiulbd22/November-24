@@ -76,11 +76,11 @@ const members = {
     khalaBill       :500,
     netBill         :140,
     serviceBill     :20,
-    othersBill      :70,
+    othersBill      :0,
     runningMonth    :"October-24",
     previousMonth   :"September-24", // new addDecember
     upComingMonth   :"November 1,2024",
-    runningMealRate :57,
+    runningMealRate :0,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -244,7 +244,7 @@ const members = {
     },
     "01749244430":{
         name:"Amdadul Haque",
-         join:"new",
+         //join:"new",
         // pre-previous month list
         post_payable        :6000,
         previous_paid       :7000,
